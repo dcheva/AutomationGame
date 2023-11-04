@@ -1,0 +1,54 @@
+Steam Reports BeamNG.drive not Installed.
+BeamNG is Post 22: true
+BNGExporter::GetUserOveridePath: Unable to retrieve userpath_override
+BeamNG.drive Userpath is not overridden. Getting Default Path
+BeamNG User Path: C:\Users\Dmytro\AppData\Local\BeamNG.drive\0.30\mods
+AuCarExportDLL::BeginExport
+BNGExporter::BeginExport
+Car Name: 
+My My Trim
+
+
+AuCarExportDLL::GetLuaFileCount
+AuCarExportDLL::GetLuaFileLength
+AuCarExportDLL::GetLuaFile
+AuCarExportDLL::GetLuaFileLength
+AuCarExportDLL::GetLuaFile
+AuCarExportDLL::GetLuaFileLength
+AuCarExportDLL::GetLuaFile
+AuCarExportDLL::GetLuaFileLength
+AuCarExportDLL::GetLuaFile
+AuCarExportDLL::GetLuaFileLength
+AuCarExportDLL::GetLuaFile
+AuCarExportDLL::GetLuaFileLength
+AuCarExportDLL::GetLuaFile
+AuCarExportDLL::GetLuaFileLength
+AuCarExportDLL::GetLuaFile
+AuCarExportDLL::GetLuaFileLength
+AuCarExportDLL::GetLuaFile
+AuCarExportDLL::GetLuaFileLength
+AuCarExportDLL::GetLuaFile
+AuCarExportDLL::GetLuaFileLength
+AuCarExportDLL::GetLuaFile
+AuCarExportDLL::GetLuaFileLength
+AuCarExportDLL::GetLuaFile
+AuCarExportDLL::GetLuaFileLength
+AuCarExportDLL::GetLuaFile
+AuCarExportDLL::GetLuaFileLength
+AuCarExportDLL::GetLuaFile
+AuCarExportDLL::GetLuaFileLength
+AuCarExportDLL::GetLuaFile
+AuCarExportDLL::GetLuaFileLength
+AuCarExportDLL::GetLuaFile
+AuCarExportDLL::GetLuaFileLength
+AuCarExportDLL::GetLuaFile
+AuCarExportDLL::AddLuaFiles
+AuCarExportDLL::AddLuaFloatData
+AuCarExportDLL::AddLuaStringData
+BNGExporter::AddEngineSamples
+BNGExporter::AddChassis
+BNGExporter::AddWheels
+BNGExporter::AddWheels
+AuCarExportDLL::EndExport
+BNGExporter::EndExport
+Closing Log
