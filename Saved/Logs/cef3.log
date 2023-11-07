@@ -1,0 +1,12 @@
+[1107/213853.403:WARNING:extension_protocols.cc(464)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[1107/213853.403:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[1107/213853.419:WARNING:extension_protocols.cc(464)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[1107/213853.420:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[1107/213921.738:WARNING:extension_protocols.cc(464)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[1107/213921.738:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[1107/213921.755:WARNING:extension_protocols.cc(464)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[1107/213921.755:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[1107/213944.016:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 55
+[1107/213945.327:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 59
+[1107/213945.329:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 61
+[1107/213945.329:ERROR:media_internals.cc(103)] Cannot get RenderProcessHost
