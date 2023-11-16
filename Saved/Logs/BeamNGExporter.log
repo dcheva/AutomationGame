@@ -6,7 +6,7 @@ BeamNG User Path: C:\Users\Dmytro\AppData\Local\BeamNG.drive\0.30\mods
 AuCarExportDLL::BeginExport
 BNGExporter::BeginExport
 Car Name: 
-Bee 2931 Dee 3_22_2b
+Bee 2931_7200 Dee 3_22_2Cplus
 
 
 AuCarExportDLL::GetLUAFileLength
@@ -84,13 +84,6 @@ isTowBar: false
 
 BNGExporter::AddFixture
 Adding fixture: 
-EFixtureType::EFT_BUMPER_BAR
-isWing: false
-isBreakable: false
-isTowBar: false
-
-BNGExporter::AddFixture
-Adding fixture: 
 EFixtureType::EFT_DEFORMATION
 isWing: false
 isBreakable: false
@@ -134,6 +127,34 @@ isTowBar: false
 BNGExporter::AddFixture
 Adding fixture: 
 EFixtureType::EFT_FUELCAP_DOOR
+isWing: false
+isBreakable: false
+isTowBar: false
+
+BNGExporter::AddFixture
+Adding fixture: 
+EFixtureType::EFT_HANDLE
+isWing: false
+isBreakable: false
+isTowBar: false
+
+BNGExporter::AddFixture
+Adding fixture: 
+EFixtureType::EFT_HANDLE
+isWing: false
+isBreakable: false
+isTowBar: false
+
+BNGExporter::AddFixture
+Adding fixture: 
+EFixtureType::EFT_MIRROR
+isWing: false
+isBreakable: false
+isTowBar: false
+
+BNGExporter::AddFixture
+Adding fixture: 
+EFixtureType::EFT_MIRROR
 isWing: false
 isBreakable: false
 isTowBar: false
