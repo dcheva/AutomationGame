@@ -6,49 +6,139 @@ BeamNG User Path: C:\Users\Dmytro\AppData\Local\BeamNG.drive\0.30\mods
 AuCarExportDLL::BeginExport
 BNGExporter::BeginExport
 Car Name: 
-Model_2 Trim_2
+Bee 2931 Dee 3_22_2b
 
 
-AuCarExportDLL::GetLuaFileCount
-AuCarExportDLL::GetLuaFileLength
-AuCarExportDLL::GetLuaFile
-AuCarExportDLL::GetLuaFileLength
-AuCarExportDLL::GetLuaFile
-AuCarExportDLL::GetLuaFileLength
-AuCarExportDLL::GetLuaFile
-AuCarExportDLL::GetLuaFileLength
-AuCarExportDLL::GetLuaFile
-AuCarExportDLL::GetLuaFileLength
-AuCarExportDLL::GetLuaFile
-AuCarExportDLL::GetLuaFileLength
-AuCarExportDLL::GetLuaFile
-AuCarExportDLL::GetLuaFileLength
-AuCarExportDLL::GetLuaFile
-AuCarExportDLL::GetLuaFileLength
-AuCarExportDLL::GetLuaFile
-AuCarExportDLL::GetLuaFileLength
-AuCarExportDLL::GetLuaFile
-AuCarExportDLL::GetLuaFileLength
-AuCarExportDLL::GetLuaFile
-AuCarExportDLL::GetLuaFileLength
-AuCarExportDLL::GetLuaFile
-AuCarExportDLL::GetLuaFileLength
-AuCarExportDLL::GetLuaFile
-AuCarExportDLL::GetLuaFileLength
-AuCarExportDLL::GetLuaFile
-AuCarExportDLL::GetLuaFileLength
-AuCarExportDLL::GetLuaFile
-AuCarExportDLL::GetLuaFileLength
-AuCarExportDLL::GetLuaFile
-AuCarExportDLL::GetLuaFileLength
-AuCarExportDLL::GetLuaFile
+AuCarExportDLL::GetLUAFileLength
+AuCarExportDLL::GetLUAFile
 AuCarExportDLL::AddLuaFiles
 AuCarExportDLL::AddLuaFloatData
 AuCarExportDLL::AddLuaStringData
 BNGExporter::AddEngineSamples
+BNGExporter::AddCameraPositions
 BNGExporter::AddChassis
 BNGExporter::AddWheels
 BNGExporter::AddWheels
+BNGExporter::AddFixture
+Adding fixture: 
+EFixtureType::EFT_Scoop
+isWing: false
+isBreakable: false
+isTowBar: false
+
+BNGExporter::AddFixture
+Adding fixture: 
+EFixtureType::EFT_GRILL
+isWing: false
+isBreakable: false
+isTowBar: false
+
+BNGExporter::AddFixture
+Adding fixture: 
+EFixtureType::EFT_HEADLIGHT
+isWing: false
+isBreakable: false
+isTowBar: false
+
+BNGExporter::AddFixture
+Adding fixture: 
+EFixtureType::EFT_HEADLIGHT
+isWing: false
+isBreakable: false
+isTowBar: false
+
+BNGExporter::AddFixture
+Adding fixture: 
+EFixtureType::EFT_TAILLIGHT
+isWing: false
+isBreakable: false
+isTowBar: false
+
+BNGExporter::AddFixture
+Adding fixture: 
+EFixtureType::EFT_TAILLIGHT
+isWing: false
+isBreakable: false
+isTowBar: false
+
+BNGExporter::AddFixture
+Adding fixture: 
+EFixtureType::EFT_WING
+isWing: true
+isBreakable: false
+isTowBar: false
+
+BNGExporter::AddFixture
+Adding fixture: 
+EFixtureType::EFT_BUMPER_BAR
+isWing: false
+isBreakable: false
+isTowBar: false
+
+BNGExporter::AddFixture
+Adding fixture: 
+EFixtureType::EFT_BUMPER_BAR
+isWing: false
+isBreakable: false
+isTowBar: false
+
+BNGExporter::AddFixture
+Adding fixture: 
+EFixtureType::EFT_BUMPER_BAR
+isWing: false
+isBreakable: false
+isTowBar: false
+
+BNGExporter::AddFixture
+Adding fixture: 
+EFixtureType::EFT_DEFORMATION
+isWing: false
+isBreakable: false
+isTowBar: false
+
+BNGExporter::AddFixture
+Adding fixture: 
+EFixtureType::EFT_DEFORMATION
+isWing: false
+isBreakable: false
+isTowBar: false
+
+BNGExporter::AddFixture
+Adding fixture: 
+EFixtureType::EFT_BADGE_TEXT
+isWing: false
+isBreakable: false
+isTowBar: false
+
+BNGExporter::AddFixture
+Adding fixture: 
+EFixtureType::EFT_BADGE_TEXT
+isWing: false
+isBreakable: false
+isTowBar: false
+
+BNGExporter::AddFixture
+Adding fixture: 
+EFixtureType::EFT_BADGE_TEXT
+isWing: false
+isBreakable: false
+isTowBar: false
+
+BNGExporter::AddFixture
+Adding fixture: 
+EFixtureType::EFT_FUELCAP_DOOR
+isWing: false
+isBreakable: false
+isTowBar: false
+
+BNGExporter::AddFixture
+Adding fixture: 
+EFixtureType::EFT_FUELCAP_DOOR
+isWing: false
+isBreakable: false
+isTowBar: false
+
+BNGExporter::AddPreviewImage
 AuCarExportDLL::EndExport
 BNGExporter::EndExport
 Closing Log
